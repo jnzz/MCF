@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T22:00:56.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="S4QwDb1Qy7ZTYvMGxkZP" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T22:03:10.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="FYfnE59gc6sysjJtgWGq" version="24.5.5" type="github">
   <diagram name="Page-1" id="l_9-RIlW9i13i7eaHmRu">
-    <mxGraphModel dx="8749" dy="2957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6924" dy="1479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RoE8E-zZMEs0R_7GRx1K-1" value="Выполнение заказа" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;align=center;spacing=9;verticalAlign=top;strokeColor=default;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=2;lucidId=HCPMqrkc3qt5;" parent="1" vertex="1">
-          <mxGeometry x="-3521" y="495" width="1511" height="315" as="geometry" />
+          <mxGeometry x="-3521" y="495" width="1661" height="315" as="geometry" />
         </mxCell>
         <mxCell id="RoE8E-zZMEs0R_7GRx1K-2" value="Склад" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;align=center;spacing=9;verticalAlign=top;strokeColor=default;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=2;lucidId=1zPMJR6yUo5M;" parent="1" vertex="1">
           <mxGeometry x="-3330" y="860" width="1062" height="383" as="geometry" />
@@ -231,6 +231,12 @@
         </mxCell>
         <mxCell id="ouE3uGwMO_rl1Qw4itwe-13" value="Заказ провален" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#fc9432;strokeWidth=0;lucidId=GLOMKtji0pvv;" vertex="1" parent="1">
           <mxGeometry x="-3735" y="2390" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ouE3uGwMO_rl1Qw4itwe-15" value="Клиент" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;align=center;spacing=9;verticalAlign=top;strokeColor=default;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=2;lucidId=HCPMqrkc3qt5;" vertex="1" parent="1">
+          <mxGeometry x="-4080" y="70" width="1915" height="385" as="geometry" />
+        </mxCell>
+        <mxCell id="ouE3uGwMO_rl1Qw4itwe-16" value="Нотификация отправлена" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#fc9432;strokeWidth=0;lucidId=PLOM0dX3wPXh;" vertex="1" parent="1">
+          <mxGeometry x="-2010" y="540" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
