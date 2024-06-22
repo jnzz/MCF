@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T08:46:18.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="cR0P7FQqVFFKR0CFad42" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-22T21:34:46.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="11AvNRYi5R5Qbsa-enk2" version="24.5.5" type="github">
   <diagram name="Page-1" id="l_9-RIlW9i13i7eaHmRu">
-    <mxGraphModel dx="7654" dy="2070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6602" dy="1218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,9 +81,6 @@
         </mxCell>
         <mxCell id="RoE8E-zZMEs0R_7GRx1K-25" value="Способ списания денег" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#ffd9d9;strokeWidth=0;lucidId=vVOM_5~CS0Ev;" parent="1" vertex="1">
           <mxGeometry x="-3735" y="1935" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="RoE8E-zZMEs0R_7GRx1K-26" value="Нотификация отправлена" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#fc9432;strokeWidth=0;lucidId=LHOMbMF0Fogo;" parent="1" vertex="1">
-          <mxGeometry x="-3570" y="1935" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="RoE8E-zZMEs0R_7GRx1K-27" value="Нотификация отправлена" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#fc9432;strokeWidth=0;lucidId=9HOMmKMdv4F6;" parent="1" vertex="1">
           <mxGeometry x="-3210" y="2235" width="120" height="120" as="geometry" />
@@ -235,17 +232,26 @@
         <mxCell id="ouE3uGwMO_rl1Qw4itwe-15" value="Клиент" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;align=center;spacing=9;verticalAlign=top;strokeColor=default;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=2;lucidId=HCPMqrkc3qt5;" parent="1" vertex="1">
           <mxGeometry x="-4080" y="70" width="1915" height="385" as="geometry" />
         </mxCell>
-        <mxCell id="ouE3uGwMO_rl1Qw4itwe-16" value="Нотификация отправлена" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#fc9432;strokeWidth=0;lucidId=PLOM0dX3wPXh;" parent="1" vertex="1">
-          <mxGeometry x="-2010" y="540" width="120" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="ouE3uGwMO_rl1Qw4itwe-17" value="Менеджер" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;align=center;spacing=9;verticalAlign=top;strokeColor=default;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=2;lucidId=LsPM5n6X4SBT;" parent="1" vertex="1">
           <mxGeometry x="-4125" y="1120" width="715" height="715" as="geometry" />
         </mxCell>
-        <mxCell id="ouE3uGwMO_rl1Qw4itwe-18" value="Нотификация отправлена" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#fc9432;strokeWidth=0;lucidId=LKOMNFMfwg8P;" parent="1" vertex="1">
-          <mxGeometry x="-2940" y="2760" width="120" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="ouE3uGwMO_rl1Qw4itwe-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Контексты&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Контексты собраны по исполнителям - клиент/менеджер/воркер/работник склада/кандидат&lt;/font&gt;&lt;/p&gt;&lt;p&gt;С нотификацией не решил, будет это внешняя система или своя, поэтому оставлено просто как событие&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-4890" y="180" width="340" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob97QmgH0fslo4kpqgYh-1" value="Нотификация отправлена" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#ffffff;strokeWidth=0;lucidId=O_9KG7jxIo2s;" vertex="1" parent="1">
+          <mxGeometry x="-3650" y="2010" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob97QmgH0fslo4kpqgYh-3" value="Нотификация отправлена" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#ffffff;strokeWidth=0;lucidId=O_9KG7jxIo2s;" vertex="1" parent="1">
+          <mxGeometry x="-2125" y="620" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob97QmgH0fslo4kpqgYh-4" value="Нотификация отправлена" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#ffffff;strokeWidth=0;lucidId=O_9KG7jxIo2s;" vertex="1" parent="1">
+          <mxGeometry x="-2990" y="2660" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob97QmgH0fslo4kpqgYh-5" value="Нотификация отправлена" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#ffffff;strokeWidth=0;lucidId=O_9KG7jxIo2s;" vertex="1" parent="1">
+          <mxGeometry x="-3010" y="2910" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob97QmgH0fslo4kpqgYh-6" value="Список тестов" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#54c45e;strokeWidth=0;lucidId=dnPMlttxr-Cw;" vertex="1" parent="1">
+          <mxGeometry x="-3750" y="1335" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
