@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T19:55:50.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="J1WEfCVfUPmQLvnQ1jlK" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T19:56:20.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="repLZiWI0JcjMKB6iJsa" version="24.6.2" type="github">
   <diagram name="Page-1" id="l_9-RIlW9i13i7eaHmRu">
     <mxGraphModel dx="7228" dy="2825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -197,7 +197,7 @@
           <mxGeometry x="-2960" y="470" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ouE3uGwMO_rl1Qw4itwe-11" value="Отчёт подписан" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#fc9432;strokeWidth=0;lucidId=GMOMfP50JJpL;" parent="1" vertex="1">
-          <mxGeometry x="-1520" y="100" width="120" height="120" as="geometry" />
+          <mxGeometry x="-1050" y="240" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ouE3uGwMO_rl1Qw4itwe-12" value="Воркер не пришёл" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#e08fff;strokeWidth=0;lucidId=GoPMGig64.h5;" parent="1" vertex="1">
           <mxGeometry x="-3900" y="2390" width="120" height="120" as="geometry" />
