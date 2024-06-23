@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T19:53:56.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pePvoGm6P6rjTsWR1ciq" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T19:54:43.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7EOP27udeBd6fa0KZC_N" version="24.6.2" type="github">
   <diagram name="Page-1" id="l_9-RIlW9i13i7eaHmRu">
-    <mxGraphModel dx="7228" dy="2825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="9357" dy="4550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,9 +208,6 @@
         <mxCell id="ouE3uGwMO_rl1Qw4itwe-13" value="Заказ провален" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#fc9432;strokeWidth=0;lucidId=GLOMKtji0pvv;" parent="1" vertex="1">
           <mxGeometry x="-3735" y="2390" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ouE3uGwMO_rl1Qw4itwe-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Контексты&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Контексты собраны по исполнителям - клиент/менеджер/воркер/работник склада/кандидат&lt;/font&gt;&lt;/p&gt;&lt;p&gt;С нотификацией не решил, будет это внешняя система или своя, поэтому оставлено просто как событие&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-4890" y="180" width="340" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="Ob97QmgH0fslo4kpqgYh-1" value="Нотификация отправлена" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#ffffff;strokeWidth=0;lucidId=O_9KG7jxIo2s;" parent="1" vertex="1">
           <mxGeometry x="-3650" y="2010" width="120" height="120" as="geometry" />
         </mxCell>
@@ -265,49 +262,49 @@
         <mxCell id="2AL8N9cDnSADsovc2jIz-15" value="Заказать печенье" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0;lucidId=Q99Kw1.Pjyrw;" parent="1" vertex="1">
           <mxGeometry x="-2530" y="382.5" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-1" value="Результаты тестов" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#54c45e;strokeWidth=0;lucidId=dnPMlttxr-Cw;" vertex="1" parent="1">
+        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-1" value="Результаты тестов" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#54c45e;strokeWidth=0;lucidId=dnPMlttxr-Cw;" parent="1" vertex="1">
           <mxGeometry x="-2127.5" y="2770" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-2" value="Менеджер" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillColor=#FFECA9;strokeWidth=0;lucidId=9pOMJ57Y_Idk;" vertex="1" parent="1">
+        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-2" value="Менеджер" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillColor=#FFECA9;strokeWidth=0;lucidId=9pOMJ57Y_Idk;" parent="1" vertex="1">
           <mxGeometry x="-4080" y="2770" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-3" value="Задан набор тестов" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#fc9432;strokeWidth=0;lucidId=3rOMl7Rf~eKV;" vertex="1" parent="1">
+        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-3" value="Задан набор тестов" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#fc9432;strokeWidth=0;lucidId=3rOMl7Rf~eKV;" parent="1" vertex="1">
           <mxGeometry x="-3800" y="2770" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-4" value="Задать набор тестов" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0;lucidId=Q99Kw1.Pjyrw;" vertex="1" parent="1">
+        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-4" value="Задать набор тестов" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0;lucidId=Q99Kw1.Pjyrw;" parent="1" vertex="1">
           <mxGeometry x="-3940" y="2770" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-5" value="Информация о заказе для сборки, кому/для чего" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#54c45e;strokeWidth=0;lucidId=dnPMlttxr-Cw;" vertex="1" parent="1">
+        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-5" value="Информация о заказе для сборки, кому/для чего" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#54c45e;strokeWidth=0;lucidId=dnPMlttxr-Cw;" parent="1" vertex="1">
           <mxGeometry x="-3600" y="300" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-7" value="Воркер" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillColor=#FFECA9;strokeWidth=0;lucidId=CqOMGlZuYuNK;" vertex="1" parent="1">
+        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-7" value="Воркер" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillColor=#FFECA9;strokeWidth=0;lucidId=CqOMGlZuYuNK;" parent="1" vertex="1">
           <mxGeometry x="-1760" y="377.5" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-8" value="Получить расходники" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0;lucidId=Q99Kw1.Pjyrw;" vertex="1" parent="1">
+        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-8" value="Получить расходники" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0;lucidId=Q99Kw1.Pjyrw;" parent="1" vertex="1">
           <mxGeometry x="-1620" y="380" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-9" value="Выполнить заказ" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0;lucidId=Q99Kw1.Pjyrw;" vertex="1" parent="1">
+        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-9" value="Выполнить заказ" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0;lucidId=Q99Kw1.Pjyrw;" parent="1" vertex="1">
           <mxGeometry x="-1190" y="382.5" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-10" value="Менеджер" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillColor=#FFECA9;strokeWidth=0;lucidId=wrOMKcsqYXI9;" vertex="1" parent="1">
+        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-10" value="Менеджер" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillColor=#FFECA9;strokeWidth=0;lucidId=wrOMKcsqYXI9;" parent="1" vertex="1">
           <mxGeometry x="-3080" y="2770" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-11" value="Назначить тесты" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0;lucidId=Q99Kw1.Pjyrw;" vertex="1" parent="1">
+        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-11" value="Назначить тесты" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0;lucidId=Q99Kw1.Pjyrw;" parent="1" vertex="1">
           <mxGeometry x="-2930" y="2770" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-12" value="Кандидат" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillColor=#FFECA9;strokeWidth=0;lucidId=wrOMKcsqYXI9;" vertex="1" parent="1">
+        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-12" value="Кандидат" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillColor=#FFECA9;strokeWidth=0;lucidId=wrOMKcsqYXI9;" parent="1" vertex="1">
           <mxGeometry x="-2530" y="2770" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-13" value="Тесты назначены" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#fc9432;strokeWidth=0;lucidId=nKOMDOXvX65q;" vertex="1" parent="1">
+        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-13" value="Тесты назначены" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#fc9432;strokeWidth=0;lucidId=nKOMDOXvX65q;" parent="1" vertex="1">
           <mxGeometry x="-2795" y="2770" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-14" value="Пройти тесты" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0;lucidId=Q99Kw1.Pjyrw;" vertex="1" parent="1">
+        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-14" value="Пройти тесты" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0;lucidId=Q99Kw1.Pjyrw;" parent="1" vertex="1">
           <mxGeometry x="-2397.5" y="2770" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-15" value="Тесты" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#54c45e;strokeWidth=0;lucidId=dnPMlttxr-Cw;" vertex="1" parent="1">
+        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-15" value="Тесты" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#54c45e;strokeWidth=0;lucidId=dnPMlttxr-Cw;" parent="1" vertex="1">
           <mxGeometry x="-2660" y="2770" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-16" value="Менеджер" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillColor=#FFECA9;strokeWidth=0;lucidId=9pOMJ57Y_Idk;" vertex="1" parent="1">
+        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-16" value="Менеджер" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillColor=#FFECA9;strokeWidth=0;lucidId=9pOMJ57Y_Idk;" parent="1" vertex="1">
           <mxGeometry x="-4050" y="1620" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
