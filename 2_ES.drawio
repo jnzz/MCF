@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T19:53:27.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="FlaW6BHHYvYVZxVmjGRo" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T19:53:56.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pePvoGm6P6rjTsWR1ciq" version="24.6.2" type="github">
   <diagram name="Page-1" id="l_9-RIlW9i13i7eaHmRu">
     <mxGraphModel dx="7228" dy="2825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="RoE8E-zZMEs0R_7GRx1K-2" value="Склад" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;align=center;spacing=9;verticalAlign=top;strokeColor=default;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=2;lucidId=1zPMJR6yUo5M;" parent="1" vertex="1">
           <mxGeometry x="-2840" y="310" width="1070" height="383" as="geometry" />
         </mxCell>
-        <mxCell id="ouE3uGwMO_rl1Qw4itwe-17" value="Менеджер" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;align=center;spacing=9;verticalAlign=top;strokeColor=default;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=2;lucidId=LsPM5n6X4SBT;" parent="1" vertex="1">
-          <mxGeometry x="-4125" y="1120" width="715" height="715" as="geometry" />
+        <mxCell id="ouE3uGwMO_rl1Qw4itwe-17" value="Ставки" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;align=center;spacing=9;verticalAlign=top;strokeColor=default;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=2;lucidId=LsPM5n6X4SBT;" parent="1" vertex="1">
+          <mxGeometry x="-4125" y="1490" width="715" height="345" as="geometry" />
         </mxCell>
         <mxCell id="RoE8E-zZMEs0R_7GRx1K-1" value="Выполнение заказа" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;align=center;spacing=9;verticalAlign=top;strokeColor=default;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=2;lucidId=HCPMqrkc3qt5;" parent="1" vertex="1">
           <mxGeometry x="-3361" y="785" width="1661" height="315" as="geometry" />
@@ -306,6 +306,9 @@
         </mxCell>
         <mxCell id="QO7Ni4xg8hyCzxuAPd0e-15" value="Тесты" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#54c45e;strokeWidth=0;lucidId=dnPMlttxr-Cw;" vertex="1" parent="1">
           <mxGeometry x="-2660" y="2770" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QO7Ni4xg8hyCzxuAPd0e-16" value="Менеджер" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillColor=#FFECA9;strokeWidth=0;lucidId=9pOMJ57Y_Idk;" vertex="1" parent="1">
+          <mxGeometry x="-4050" y="1620" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
