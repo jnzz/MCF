@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T20:19:54.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1bxNkOu9aTozrI598ewk" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T20:23:30.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="fqzoDReKH4JIHHJ2T6br" version="24.6.2" type="github">
   <diagram name="Page-1" id="LDOksrUaq20k6TJ6HL2x">
     <mxGraphModel dx="1277" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,11 +16,11 @@
         <mxCell id="sUVa3AoWF7D5zAPUv-p0-4" value="?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sUVa3AoWF7D5zAPUv-p0-6" value="Обработка заказов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="160" y="440" width="200" height="160" as="geometry" />
+        <mxCell id="sUVa3AoWF7D5zAPUv-p0-6" value="Обработка заказов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="120" y="330" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="sUVa3AoWF7D5zAPUv-p0-7" value="Заказы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sUVa3AoWF7D5zAPUv-p0-8" value="Ставки" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="225" y="620" width="200" height="160" as="geometry" />
