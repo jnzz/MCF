@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T19:24:51.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Ee0UD881VbHdEep6KFmI" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T19:25:04.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lwhsFbesCt4FkdHkvLu7" version="24.6.2" type="github">
   <diagram name="Page-1" id="LDOksrUaq20k6TJ6HL2x">
     <mxGraphModel dx="1277" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="sUVa3AoWF7D5zAPUv-p0-4" value="Подбор исполнителей" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9GOtzLrpTvZ1elp99d6H-1" value="Отбор кандидатов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9GOtzLrpTvZ1elp99d6H-1" value="Отбор кандидатов" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
