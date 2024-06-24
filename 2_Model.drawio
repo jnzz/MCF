@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T20:54:02.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="I1qPYc7TfoupTJGGxRCe" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T20:57:05.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sJZdI7vzI951LHDnnw0A" version="24.6.2" type="github">
   <diagram name="Page-1" id="LDOksrUaq20k6TJ6HL2x">
-    <mxGraphModel dx="1277" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="608" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,6 +16,9 @@
         <mxCell id="sUVa3AoWF7D5zAPUv-p0-6" value="Обработка заказов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="60" y="320" width="300" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="9T4Rt7w5FMUcd3hGJzWI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;curved=1;" edge="1" parent="1" source="sUVa3AoWF7D5zAPUv-p0-7" target="sUVa3AoWF7D5zAPUv-p0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sUVa3AoWF7D5zAPUv-p0-7" value="Заказы" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="380" width="120" height="60" as="geometry" />
         </mxCell>
@@ -27,6 +30,9 @@
         </mxCell>
         <mxCell id="sUVa3AoWF7D5zAPUv-p0-4" value="Подбор исполнителей" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9T4Rt7w5FMUcd3hGJzWI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=1;flowAnimation=0;curved=1;endArrow=none;endFill=0;" edge="1" parent="1" source="9GOtzLrpTvZ1elp99d6H-1" target="sUVa3AoWF7D5zAPUv-p0-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9GOtzLrpTvZ1elp99d6H-1" value="Отбор кандидатов" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
