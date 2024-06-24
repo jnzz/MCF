@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T18:33:09.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="kQ6G_qFVs7Mxer-8pL4D" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T20:40:55.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="FOU69eIpULMuOvdHp_qx" version="24.6.2" type="github">
   <diagram name="Page-1" id="l_9-RIlW9i13i7eaHmRu">
-    <mxGraphModel dx="6316" dy="2086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="11485" dy="6275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -319,16 +319,16 @@
         <mxCell id="2nvN1_-hKD9VQXm0tDFN-5" value="Клиент" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillColor=#FFECA9;strokeWidth=0;lucidId=poOMKIs.5_XG;" parent="1" vertex="1">
           <mxGeometry x="-3600" y="120" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TlmDWiSpO88-IunRfOuL-1" value="Согласовать результаты тестов" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0;lucidId=Q99Kw1.Pjyrw;" vertex="1" parent="1">
+        <mxCell id="TlmDWiSpO88-IunRfOuL-1" value="Согласовать результаты тестов" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#cfe4ff;strokeWidth=0;lucidId=Q99Kw1.Pjyrw;" parent="1" vertex="1">
           <mxGeometry x="-1840" y="2675" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TlmDWiSpO88-IunRfOuL-2" value="Тесты пройдены" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#fc9432;strokeWidth=0;lucidId=LKOMNFMfwg8P;" vertex="1" parent="1">
+        <mxCell id="TlmDWiSpO88-IunRfOuL-2" value="Тесты пройдены" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#fc9432;strokeWidth=0;lucidId=LKOMNFMfwg8P;" parent="1" vertex="1">
           <mxGeometry x="-1695" y="2680" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TlmDWiSpO88-IunRfOuL-3" value="Менеджер" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillColor=#FFECA9;strokeWidth=0;lucidId=wrOMKcsqYXI9;" vertex="1" parent="1">
+        <mxCell id="TlmDWiSpO88-IunRfOuL-3" value="Менеджер" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillColor=#FFECA9;strokeWidth=0;lucidId=wrOMKcsqYXI9;" parent="1" vertex="1">
           <mxGeometry x="-1977.5" y="2675" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TlmDWiSpO88-IunRfOuL-4" value="Результаты тестов" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#54c45e;strokeWidth=0;lucidId=dnPMlttxr-Cw;" vertex="1" parent="1">
+        <mxCell id="TlmDWiSpO88-IunRfOuL-4" value="Результаты тестов" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shadow=1;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=none;strokeOpacity=100;fillOpacity=100;fillColor=#54c45e;strokeWidth=0;lucidId=dnPMlttxr-Cw;" parent="1" vertex="1">
           <mxGeometry x="-2125" y="2850" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
