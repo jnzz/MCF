@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T20:37:02.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Ze7aJJVf8-D1ro3RZub7" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T20:37:35.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="BjJi5Gt9uLE0ga6NMzhy" version="24.6.4" type="github">
   <diagram name="Page-1" id="l_9-RIlW9i13i7eaHmRu">
-    <mxGraphModel dx="7228" dy="2825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6519" dy="2250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="RoE8E-zZMEs0R_7GRx1K-2" value="Склад" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;align=center;spacing=9;verticalAlign=top;strokeColor=default;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=2;lucidId=1zPMJR6yUo5M;" parent="1" vertex="1">
           <mxGeometry x="-2820" y="920" width="1070" height="383" as="geometry" />
         </mxCell>
-        <mxCell id="ouE3uGwMO_rl1Qw4itwe-17" value="Ставки" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;align=center;spacing=9;verticalAlign=top;strokeColor=default;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=2;lucidId=LsPM5n6X4SBT;" parent="1" vertex="1">
+        <mxCell id="ouE3uGwMO_rl1Qw4itwe-17" value="Тотализатор" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;align=center;spacing=9;verticalAlign=top;strokeColor=default;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=2;lucidId=LsPM5n6X4SBT;" parent="1" vertex="1">
           <mxGeometry x="-4125" y="1490" width="715" height="345" as="geometry" />
         </mxCell>
         <mxCell id="RoE8E-zZMEs0R_7GRx1K-3" value="Оплата" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;align=center;spacing=9;verticalAlign=top;strokeColor=default;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=none;strokeWidth=2;lucidId=LsPM5n6X4SBT;" parent="1" vertex="1">
