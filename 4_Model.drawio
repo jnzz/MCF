@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2024-07-07T21:03:18.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.4" etag="65Zdpmoar27wakeSNMqW" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-07T21:10:27.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="PiMmT4tBW_ikvIgLhB3z" version="24.6.4" type="github">
   <diagram name="Page-1" id="xNGtwcLamrueNrUXn7V0">
-    <mxGraphModel>
+    <mxGraphModel dx="1277" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vbhIrUB7vra0cQjbyuGe-2" value="Сервис" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="260" y="170" width="400" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="vbhIrUB7vra0cQjbyuGe-3" value="Внешняя система" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#999999;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="32.5" y="30" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vbhIrUB7vra0cQjbyuGe-4" value="Сервис" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="10" y="320" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vbhIrUB7vra0cQjbyuGe-5" value="Сервис" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="180" y="620" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vbhIrUB7vra0cQjbyuGe-6" value="Купим внешнюю систему" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#999999;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="440" y="600" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vbhIrUB7vra0cQjbyuGe-7" value="Сервис" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="720" y="630" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vbhIrUB7vra0cQjbyuGe-8" value="Сервис" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="790" y="350" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vbhIrUB7vra0cQjbyuGe-9" value="Сервис" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="730" y="20" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vbhIrUB7vra0cQjbyuGe-10" value="расчёт и списание средств у клиентов и сотрудников" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="65" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vbhIrUB7vra0cQjbyuGe-11" value="система ставок менеджмента" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="400" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vbhIrUB7vra0cQjbyuGe-12" value="entity-сервис воркеров" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="742.5" y="680" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vbhIrUB7vra0cQjbyuGe-13" value="производство Fur-tune печенья" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="650" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vbhIrUB7vra0cQjbyuGe-14" value="сборка необходимых расходников для заказа" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="670" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vbhIrUB7vra0cQjbyuGe-15" value="скоринг работников перед тем, как добавить их в систему как воркеров" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="32.5" y="370" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vbhIrUB7vra0cQjbyuGe-16" value="happy cat box" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="80" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vbhIrUB7vra0cQjbyuGe-17" value="матчинг сотрудников и клиентов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vbhIrUB7vra0cQjbyuGe-18" value="планирование визитов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vbhIrUB7vra0cQjbyuGe-19" value="контроль качества работы сотрудников" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="125" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
